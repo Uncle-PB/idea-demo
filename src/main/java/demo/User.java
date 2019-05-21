@@ -2,7 +2,7 @@ package demo;
 
 import org.springframework.stereotype.Repository;
 
-//hello GitHub
+//hello GitHub 666
 public class User {
     private String name;
     private Integer age;

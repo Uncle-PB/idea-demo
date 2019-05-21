@@ -1,7 +1,7 @@
 package demo;
 
 import org.springframework.stereotype.Service;
-//666888
+//GitHub update
 @Service
 public class UserService {
     private String name;
